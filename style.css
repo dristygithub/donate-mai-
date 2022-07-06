@@ -29,12 +29,17 @@ h1{
     background-size: 100% 100%;;  
 }
 .donate-today{
-    margin: 10% 25%;
+    margin: 7% 25%;
+}
+.make-easy{
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 20px;
 }
 .donation{
     
     text-align: center;
-    margin-bottom:5%;
+    margin-bottom:3%;
     padding-bottom: 2%;
     
 }
@@ -73,22 +78,20 @@ h1{
 
 }
 .special-container{
-    margin: 10%;
+    margin: 7%;
     
 }
 .flexible-container{
+    padding-left: 10%;
     display: flex;
-    text-align: center;
-    margin-right:5%;
-    
-    
+    margin-right:5%;  
     
 }
 .family-food{
     height: 400px;
     width:300px ;
     background-color: skyblue;
-    padding: 50px 30px;
+    padding: 50px 40px;
     border-radius: 5px;
 }
 .family-shelter{
@@ -96,7 +99,7 @@ h1{
     width:300px ;
     background-color:pink;
     margin-left: 4%;
-    padding: 50px 30px;
+    padding: 50px 40px;
     border-radius: 5px;
 }
 .children-education{
@@ -104,7 +107,7 @@ h1{
     width:300px ;
     background-color:yellowgreen;
     margin-left:4%;
-    padding: 50px 30px;
+    padding: 50px 40px;
     border-radius: 5px;
 }
 .half-width{
@@ -121,6 +124,7 @@ h1{
 .donate-contribute{
     display: flex;
     margin-left: 7%;
+    padding: 5%;
 } 
 
 .form-box{
