@@ -30,6 +30,7 @@ h1{
 }
 .donate-today{
     margin: 7% 25%;
+    text-align: center;
 }
 .make-easy{
     margin-left: 20%;
@@ -66,7 +67,7 @@ h1{
     text-align: center;
     color:gainsboro;
 }
-.button-2{
+/* .button-2{
     text-align: center;
     text-decoration: none;
     margin-top: 10%;
@@ -74,11 +75,12 @@ h1{
     padding: 10px;
     color: white;
     background-color: tomato;
-    border-radius: 5px;
+    border-radius: 5px; */
 
 }
 .special-container{
     margin: 7%;
+    
     
 }
 .flexible-container{
@@ -110,23 +112,21 @@ h1{
     padding: 50px 40px;
     border-radius: 5px;
 }
+.donate-contribute{
+    display: flex;
+    margin-top: 5%;
+    margin-left: 7%;
+    padding: 5%;
+}
 .half-width{
     width: 50%;
-    padding: 5%;
+    padding-right: 5%;
     
 }
 .half-width img{
     width:80%;
     height: 100%;
-
 }
-
-.donate-contribute{
-    display: flex;
-    margin-left: 7%;
-    padding: 5%;
-} 
-
 .form-box{
     padding: 10px;
     border-radius: 5px;
