@@ -67,21 +67,9 @@ h1{
     text-align: center;
     color:gainsboro;
 }
-/* .button-2{
-    text-align: center;
-    text-decoration: none;
-    margin-top: 10%;
-    margin-left: 40%;
-    padding: 10px;
-    color: white;
-    background-color: tomato;
-    border-radius: 5px; */
 
-}
 .special-container{
-    margin: 7%;
-    
-    
+    margin: 7%;   
 }
 .flexible-container{
     padding-left: 10%;
@@ -93,7 +81,7 @@ h1{
     height: 400px;
     width:300px ;
     background-color: skyblue;
-    padding: 50px 40px;
+    padding: 40px 30px;
     border-radius: 5px;
 }
 .family-shelter{
@@ -101,7 +89,7 @@ h1{
     width:300px ;
     background-color:pink;
     margin-left: 4%;
-    padding: 50px 40px;
+    padding: 40px 30px;
     border-radius: 5px;
 }
 .children-education{
@@ -109,7 +97,7 @@ h1{
     width:300px ;
     background-color:yellowgreen;
     margin-left:4%;
-    padding: 50px 40px;
+    padding: 40px 30px;
     border-radius: 5px;
 }
 .donate-contribute{
