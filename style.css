@@ -1,0 +1,161 @@
+body{
+    font-family: 'Poppins', sans-serif;   
+}
+.change-color{
+    color: white;
+    text-align: center;
+    padding-top: 5%;
+    height: 500px;
+}
+h1{
+    font-size:50px;   
+}
+.text-container{
+    margin-bottom: 5%;
+}
+
+.button{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    background-color: tomato;
+    margin-top:10%;
+    padding: 20px;
+    border-radius: 5px;
+}
+.main-container{
+    background-image: url(images/donation9.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;;  
+}
+.donate-today{
+    margin: 10% 25%;
+}
+.donation{
+    
+    text-align: center;
+    margin-bottom:5%;
+    padding-bottom: 2%;
+    
+}
+ .donate-money{
+   
+    display:flex;
+    justify-content:space-evenly;
+    padding: 10px;
+    font-weight:700;
+        
+}
+
+#select-money{
+    color: tomato;
+    background: wheat;
+    border: 2px solid tomato;
+    margin-top: auto;
+    padding: 30px 15px;
+    border-radius: 5px;
+    
+
+}
+.Amount-of-taka{
+    text-align: center;
+    color:gainsboro;
+}
+.button-2{
+    text-align: center;
+    text-decoration: none;
+    margin-top: 10%;
+    margin-left: 40%;
+    padding: 10px;
+    color: white;
+    background-color: tomato;
+    border-radius: 5px;
+
+}
+.special-container{
+    margin: 10%;
+    
+}
+.flexible-container{
+    display: flex;
+    text-align: center;
+    margin-right:5%;
+    
+    
+    
+}
+.family-food{
+    height: 400px;
+    width:300px ;
+    background-color: skyblue;
+    padding: 50px 30px;
+    border-radius: 5px;
+}
+.family-shelter{
+    height: 400px;
+    width:300px ;
+    background-color:pink;
+    margin-left: 4%;
+    padding: 50px 30px;
+    border-radius: 5px;
+}
+.children-education{
+    height: 400px;
+    width:300px ;
+    background-color:yellowgreen;
+    margin-left:4%;
+    padding: 50px 30px;
+    border-radius: 5px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    
+}
+.half-width img{
+    width:80%;
+    height: 100%;
+
+}
+
+.donate-contribute{
+    display: flex;
+    margin-left: 7%;
+} 
+
+.form-box{
+    padding: 10px;
+    border-radius: 5px;
+    background-color:antiquewhite;
+    margin-left: 20%;
+    margin-right: 20%; 
+}
+.form-box input{
+    padding: 15px 20px;
+    font-size: 18px;
+    color: #000;
+    border: none;
+}
+.form-box button{
+    color: rgb(47, 47, 47);
+    margin-left: -5px;
+    padding: 15px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: tomato;
+    
+}
+.last-part{
+    color:white;
+    text-align: center;
+    background-color: black;
+    padding-top:20px;
+    padding-bottom:20px;
+   
+   
+}
+#add-style{
+    color: tomato;
+    font-family: 'Lobster', cursive;  
+}
